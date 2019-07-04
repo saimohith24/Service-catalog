@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="ONEPLUS ">7ecd1701db52330080d886323996198f</sc_cat_item>
+        <sc_category display_value="mobiles">d6ad9301db52330080d886323996196c</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-26 05:54:28</sys_created_on>
+        <sys_id>936e13cddb12330080d88632399619ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mobiles.ONEPLUS </sys_name>
+        <sys_package display_value="Service Catalog" source="x_362927_service_c">44b55f89db12330080d8863239961975</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Catalog">44b55f89db12330080d8863239961975</sys_scope>
+        <sys_update_name>sc_cat_item_category_936e13cddb12330080d88632399619ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-26 05:54:28</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

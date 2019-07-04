@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>true</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent display_value="electronics">cd97170ddb12330080d88632399619e0</parent>
+        <roles/>
+        <sc_catalog display_value="MyCatalog">55769bc9db12330080d8863239961902</sc_catalog>
+        <show_in_cms>false</show_in_cms>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-26 05:51:08</sys_created_on>
+        <sys_id>d6ad9301db52330080d886323996196c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mobiles</sys_name>
+        <sys_package display_value="Service Catalog" source="x_362927_service_c">44b55f89db12330080d8863239961975</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Catalog">44b55f89db12330080d8863239961975</sys_scope>
+        <sys_update_name>sc_category_d6ad9301db52330080d886323996196c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-26 05:51:08</sys_updated_on>
+        <title>mobiles</title>
+    </sc_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=d6ad9301db52330080d886323996196c"/>
+</record_update>

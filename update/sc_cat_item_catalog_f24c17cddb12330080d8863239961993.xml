@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="ac">eb3c9b8ddb12330080d88632399619e0</sc_cat_item>
+        <sc_catalog display_value="MyCatalog">55769bc9db12330080d8863239961902</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-26 05:44:58</sys_created_on>
+        <sys_id>f24c17cddb12330080d8863239961993</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MyCatalog.ac</sys_name>
+        <sys_package display_value="Service Catalog" source="x_362927_service_c">44b55f89db12330080d8863239961975</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Catalog">44b55f89db12330080d8863239961975</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_f24c17cddb12330080d8863239961993</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-26 05:44:58</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
